@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Sausages",
+      "color": "plum",
+      "image": "d4fa8492-cfe9-406c-a7ba-4952fa73d50e.png",
+      "price": "975.00"
+    },
+    {
+      "id": 2,
+      "name": "Pizza",
+      "color": "gold",
+      "image": "bb388f2c-ced6-437b-8aa7-099ccbc0e170.png",
+      "price": "94.00"
+    },
+    {
+      "id": 3,
+      "name": "Salad",
+      "color": "cyan",
+      "image": "835d37d3-7ce8-4733-b007-c735a9698895.png",
+      "price": "725.00"
+    },
+    {
+      "id": 4,
+      "name": "Computer",
+      "color": "fuchsia",
+      "image": "2c24a8ef-0b93-4c77-8222-1f41521ac4bd.png",
+      "price": "1000.00"
+    },
+    {
+      "id": 5,
+      "name": "Shoes",
+      "color": "black",
+      "image": "73251aac-e612-4a3f-bb62-f971d25cd95e.png",
+      "price": "646.00"
+    },
+    {
+      "id": 6,
+      "name": "Pizza",
+      "color": "mint green",
+      "image": "370efdb4-9748-408a-bb61-46b1fb31b230.png",
+      "price": "541.00"
+    },
+    {
+      "id": 7,
+      "name": "Soap",
+      "color": "grey",
+      "image": "ac217155-cff8-46fb-ac59-67a1845f60c6.png",
+      "price": "984.00"
+    },
+    {
+      "id": 8,
+      "name": "Table",
+      "color": "black",
+      "image": "925057ca-839f-4bd9-ba34-5aed1a68a40c.png",
+      "price": "411.00"
+    },
+    {
+      "id": 9,
+      "name": "Table",
+      "color": "magenta",
+      "image": "b298e80e-0f95-46d3-8a9b-cd3704fb83c4.png",
+      "price": "577.00"
+    },
+    {
+      "id": 10,
+      "name": "Cheese",
+      "color": "ivory",
+      "image": "c95182e1-e9cb-4cc5-b386-70bbd14d9929.png",
+      "price": "787.00"
+    }
+  ]
+}
